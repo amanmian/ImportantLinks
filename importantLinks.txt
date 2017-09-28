@@ -1,0 +1,5 @@
+https://angularfirebase.com/lessons/how-to-lazy-load-components-in-angular-4-in-three-steps/
+https://rishabh.io/misc/angular-4-project-structure.html
+http://gunnariauvinen.com/what-is/
+https://codecraft.tv/courses/angular/pipes/overview/
+https://www.sitepoint.com/ultimate-angular-cli-reference/
